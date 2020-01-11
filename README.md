@@ -1,5 +1,6 @@
 # OWASP Web Application Security Testing Checklist
 - Available in [PDF](OWASP/OWASP%20Web%20Application%20Security%20Testing%20Checklist.pdf) or [Docx](OWASP/OWASP%20Web%20Application%20Security%20Testing%20Checklist.docx) for printing
+-  [Trello Board to copy yours](https://trello.com/b/zTSkJPkL/owasp-web-checklist)
 
 ## Table of Contents
 
@@ -19,7 +20,6 @@
 
 -------
 ### <a name="Information">Information Gathering</a>
-- [ ] Manually explore the site
 - [ ] Manually explore the site
 - [ ] Spider/crawl for missed or hidden content
 - [ ] Check for files that expose content, such as robots.txt, sitemap.xml, .DS_Store
